@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/javan-test/static/css/main.84aa54d8.css",
+    "main.js": "/javan-test/static/js/main.9ee9213e.js",
+    "index.html": "/javan-test/index.html",
+    "main.84aa54d8.css.map": "/javan-test/static/css/main.84aa54d8.css.map",
+    "main.9ee9213e.js.map": "/javan-test/static/js/main.9ee9213e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84aa54d8.css",
+    "static/js/main.9ee9213e.js"
+  ]
+}
